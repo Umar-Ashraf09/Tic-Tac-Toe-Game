@@ -13,7 +13,7 @@ Welcome to the Tic Tac Toe Game! This simple web-based game allows you to play t
 
 ## Preview
 
-![Tic Tac Toe Game](https://github.com/Umar-Ashraf09/Tic-Tac-Toe-Game/assets/92431008/a13ecedb-653e-493a-8d55-695643d8d1e3)
+![Tic Tac Toe Game](https://github.com/Umar-Ashraf09/Tic-Tac-Toe-Game/assets/92431008/97889541-cc69-4681-9284-3ef9bc43e3dd)
 
 
 ## Technologies Used
